@@ -368,6 +368,7 @@ footer .grid{
      gap: 20px;
      justify-items: center;
      align-content: center;
+     
 }
 
 footer h2{
@@ -421,6 +422,8 @@ div.copy{
      grid-template-columns: 100%;
      justify-items: center;
      align-items: center;
+     position: fixed;
+     bottom: 0;
 }
 
 div.copy p{
